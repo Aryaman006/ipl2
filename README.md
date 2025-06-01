@@ -76,13 +76,13 @@ The team name in the URL is kebab-case. Internally, it's normalized to match the
 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+(screenshots/home.png)
 
 ### 🆚 Team Comparison
-![Team Comparison](screenshots/team-comparision.png)
+(screenshots/team-comparision.png)
 
 ### 🏏 Team Details Page
-![Team Details](screenshots/team-page.png)
+(screenshots/team-page.png)
 
 🤝 Contributing
 Feel free to fork this repo and submit pull requests for improvements. Ensure you keep team mappings and data utilities consistent when adding features.
