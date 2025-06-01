@@ -13,11 +13,6 @@
     "framer-motion": "^12.15.0",
     "leaflet": "^1.9.4",
     "leaflet.markercluster": "^1.5.3",
-<<<<<<< HEAD
-=======
-    "mapbox-gl": "^3.12.0",
-    "maplibre-gl": "^5.5.0",
->>>>>>> d5a3f86 (updated files)
     "next": "15.3.3",
     "react": "^19.0.0",
     "react-chartjs-2": "^5.3.0",
