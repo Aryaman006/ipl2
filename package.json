@@ -1,0 +1,35 @@
+{
+  "name": "ipl",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.9",
+    "framer-motion": "^12.15.0",
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3",
+<<<<<<< HEAD
+=======
+    "mapbox-gl": "^3.12.0",
+    "maplibre-gl": "^5.5.0",
+>>>>>>> d5a3f86 (updated files)
+    "next": "15.3.3",
+    "react": "^19.0.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-circular-progressbar": "^2.2.0",
+    "react-dom": "^19.0.0",
+    "react-leaflet": "^5.0.0",
+    "react-leaflet-markercluster": "^5.0.0-rc.0",
+    "recharts": "^2.15.3",
+    "tabletop": "^1.6.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
+  }
+}

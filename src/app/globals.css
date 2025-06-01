@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
