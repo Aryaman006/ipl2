@@ -60,8 +60,4 @@ export default function ClientOnlyMap({ teams }) {
       </MapContainer>
     </div>
   );
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> d5a3f86 (updated files)
