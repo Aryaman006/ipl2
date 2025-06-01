@@ -70,8 +70,4 @@ export function createTeamIcon(teamName, size = "small") {
     popupAnchor,
     className: "", // no default styling
   });
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> d5a3f86 (updated files)
